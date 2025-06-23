@@ -17,4 +17,4 @@
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/mgador/mgador/blob/output/github-snake-dark.svg)
